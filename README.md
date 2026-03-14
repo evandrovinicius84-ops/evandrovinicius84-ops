@@ -4,3 +4,4 @@ sou estudante
 de tecnologia
 aspirante a um big programador
 mas não garoto de programa kkkkk
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
